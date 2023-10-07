@@ -1,0 +1,5 @@
+POST http://localhost:8080/game/tictactoe/begin
+Content-Type: application/json
+{
+      "login" :"Thomas"
+}
